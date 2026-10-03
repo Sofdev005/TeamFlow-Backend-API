@@ -1,0 +1,7 @@
+
+teamflow-web/
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+appsettings.Development.json
